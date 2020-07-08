@@ -1,4 +1,4 @@
-# [Scdo - Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/)
+<!-- # [Scdo - Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/)
 
 [Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](https://getbootstrap.com/) created by [Scdo](https://startbootstrap.com/).
 
@@ -58,4 +58,4 @@ Scdo is based on the [Bootstrap](https://getbootstrap.com/) framework created by
 
 ## Copyright and License
 
-Copyright 2013-2020 Scdo LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/gh-pages/LICENSE) license.
+Copyright 2013-2020 Scdo LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/gh-pages/LICENSE) license. -->
