@@ -10,9 +10,25 @@ header {
 }
 
 img {
-    border-radius: 18%;
+    border-radius: 50%;
+    transform: rotate(20deg);
 }
 
 section {
     padding: 200px 0;
+}
+
+body {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
